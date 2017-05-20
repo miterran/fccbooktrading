@@ -1,0 +1,29 @@
+$bootstrap-sass-asset-helper: true;
+@import "~bootstrap-sass/assets/stylesheets/bootstrap";
+
+
+.mainbox{
+	margin-top: 40px;
+}
+
+// .bookCol{
+// 	height: 350px;
+// }
+
+.bookTitle{
+	overflow: hidden;
+}
+
+
+.thumbnail img {
+    height: 160px;
+}
+
+hr.style1{
+	border-top: 1px solid #8c8b8b;
+}
+
+small{
+	white-space: nowrap;
+	overflow: hidden;
+}
